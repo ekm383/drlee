@@ -24,20 +24,29 @@ const JobsPage = () => (
       </Section>
     </HeaderIndex>
     <Section id="information" style={{ margin: "4rem auto" }}>
-      <p>
-        Outstanding opportunity in Honolulu, Hawaii for a  BC/BE
-        otolaryngologist to join an established practice.  Competitive base
-        salary plus production bonus. Great income potential.  Opportunity for
-        partnership track.  In office audiology, hearing aid dispensing, and
-        videostroboscopy.  The practice serves the greater Honolulu area and
-        Pearl City.  Honolulu has many of the benefits of a major metropolis
-        while you are living in the ocean paradise that is Hawaii.
+      <p style={{ marginBottom: "2rem" }}>
+        Hawaii Ear, Nose, and Throat Consultants Corp. Honolulu, Hawaii
+        <br />
+        Physician – Otolaryngologist
       </p>
-      &nbsp;
       <p>
-        Application Instructions: Submit copy of resume and CV in either "pdf"
-        or "doc" format via email: ilarvicky@gmail.com, via fax to 808-951-4908,
-        or by mail to 1441 Kapiolani Blvd., Ste. 1300 Honolulu Hi 96814."
+        Among the duties include: Evaluate Otolaryngology patients prior to
+        medical procedures to determine the medical treatment and care plan for
+        Otolaryngology patients which may include head and neck surgery; Provide
+        medical treatment and care to Otolaryngology patients and perform head
+        and neck surgery; and Prepare reports of medical treatment and care
+        provided to Otolaryngology patients. Among the requirements are: Doctor
+        of Osteopathic Medicine Degree or Doctor of Medicine Degree or
+        Educational Commission for Foreign Medical Graduates (ECMG)
+        Certification, Current License to Practice Medicine in the State of
+        Hawaii; 36 Months of Medical Residency Training in Otolaryngology or 36
+        Months of Medical Fellowship Training in Otolaryngology; Current
+        participation in Medical Fellowship Training Program in Otolaryngology
+        Head and Neck Surgery; and Board Certified or Board Eligible in
+        Otolaryngology Head and Neck Surgery by the American Board of
+        Otolaryngology Head and Neck Surgery. Applicants may send resumes to
+        Hawaii Ear, Nose, and Throat Consultants Corp.; Attn.: Dr. James Lee,
+        1441 Kapiolani Boulevard, Suite 1300, Honolulu, Hawaii 96814
       </p>
     </Section>
   </Layout>

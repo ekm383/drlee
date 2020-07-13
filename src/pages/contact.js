@@ -4,7 +4,6 @@ import SEO from "../components/seo"
 import HeaderIndex from "../components/globals/header/HeaderIndex"
 import Banner from "../components/globals/banner/Banner"
 import Section from "../components/globals/section/Section"
-import Contact from "../components/ContactForm"
 import Map from "../components/map"
 
 const ContactPage = () => (
@@ -64,9 +63,6 @@ const ContactPage = () => (
           tabindex="0"
         ></iframe>
       </Map>
-    </Section>
-    <Section id="information" style={{ margin: "4rem auto" }}>
-      <Contact />
     </Section>
   </Layout>
 )
