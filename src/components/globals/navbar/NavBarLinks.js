@@ -20,11 +20,6 @@ class NavBarLinks extends Component {
         path: "/contact",
         text: "contact",
       },
-      {
-        id: 3,
-        path: "/opportunities",
-        text: "job opportunities",
-      },
     ],
   }
   render() {
